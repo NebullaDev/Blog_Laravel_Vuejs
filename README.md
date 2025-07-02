@@ -96,6 +96,7 @@ php artisan db:seed
 ```bash
 npm run build
 php artisan serve
+npm run dev
 ```
 
 ## 🌐 URLs de Acceso
@@ -176,40 +177,6 @@ Blog/
 ✅ **Frontend SPA**: Vue.js 3 + Bootstrap 5 (puntaje adicional)  
 ✅ **Relaciones Eloquent**: hasMany/belongsTo sin DB::raw  
 ✅ **Documentación**: README completo con instrucciones  
-
-**Listo para presentación, uso y despliegue**
-
-</div>
-
----
-
-### 8. Ejecutar seeders (opcional)
-```bash
-php artisan db:seed
-```
-
-### 9. Crear directorio de imágenes
-```bash
-mkdir public/images
-```
-
-### 10. Compilar assets del frontend
-```bash
-npm run build
-```
-
-## Ejecución
-
-
-1. **Iniciar servidor Laravel**:
-```bash
-php artisan serve
-```
-
-2. **Compilar assets en modo desarrollo** (en otra terminal):
-```bash
-npm run dev
-```
 
 ## Uso de la Aplicación
 
