@@ -58,7 +58,7 @@ mysql --version  # >= 8.0
 ### 2. Clonar e Instalar
 ```bash
 git clone <repository-url>
-cd Blog
+cd Blog_Laravel_Vuejs
 composer install
 npm install
 ```
